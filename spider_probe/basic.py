@@ -8,7 +8,7 @@ def get_page(url):
     response = requests.get(url)
 
     soup = BeautifulSoup(response.text, "html.parser")
-    # soup = BeautifulSoup(response.content, "html")
+    # soup = BeautifulSoup(response.content, "html.parser")
 
     # print(soup.prettify())
     # print(soup.a)
