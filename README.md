@@ -1,5 +1,8 @@
-# Py-Kid 🐍
-Crafting Python Instruments
+
+<div align="center">
+    <h1> Py-Kid 🐍</h1>
+    <h5>Crafting Python Instruments</h5>
+</div>
 
 ## 📖 Description
 This repository is a collection of Python practice scripts and module notes.  
